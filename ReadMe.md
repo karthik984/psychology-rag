@@ -84,9 +84,7 @@ python chat.py
 
 ## Example
 
-```
 ![Demo](image.png)
-```
 
 ## How it works
 
